@@ -1,5 +1,5 @@
 import assert from 'assert';
-import KDNService from '../src/index';
+import XIANkdn from '../src/index';
 
 
 //请先设置相关参数
@@ -11,11 +11,11 @@ const config = {
 
 
 let order = {
-  code: 'xxx',
-  shipper: 'ZTO'
+  code: '615487298969',
+  shipper: 'SF'
 };
 
-const service = new KDNService(config);
+const service = new XIANkdn(config);
 
 describe('KDNService unit test', function() {
   // it('should allow makeAsyncSubscribe', () => {
