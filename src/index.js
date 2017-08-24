@@ -7,7 +7,8 @@ import config from './config';
  * @author curry
  * 快递鸟 查询物流轨迹
  */
-export default class KDNiaoService {
+
+export default class XIANkdn {
   constructor(options) {
     this.options = Object.create(null);
     this.mixinOptions(config, options);
