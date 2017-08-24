@@ -1,6 +1,6 @@
 {
   "name": "xian_kdn",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "",
   "main": "lib/index.js",
   "directories": {
@@ -22,6 +22,14 @@
     "sourceMap": false,
     "instrument": false
   },
+  "keywords": [
+    "express",
+    "kuaidiniao",
+    "SF",
+    "快递鸟",
+    "顺丰订单实时查询",
+    "nodejs"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/curryTeam/xianKDN"
