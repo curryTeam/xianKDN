@@ -36,7 +36,7 @@ export default class XIANkdn {
       DataType: this.options.DataType,
       EBusinessID: this.options.EBusinessID
     };
-  }
+  } 
   // send request
   makeRequest(rawData) {
     let url;
